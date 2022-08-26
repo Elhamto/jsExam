@@ -1,0 +1,19 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "JavaScript",
+  "main": "q1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Elhamto/jsExam.git"
+  },
+  "author": "Elham Toloei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elhamto/jsExam/issues"
+  },
+  "homepage": "https://github.com/Elhamto/jsExam#readme"
+}
